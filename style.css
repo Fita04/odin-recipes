@@ -1,5 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.recipe-picture {
+    height: 250px;
+    width: 250px;
+    border: 5px solid;
+    margin: 30px;
+    margin-left: -3px;
+}
+
 .adobong-manok {
-    height: auto;
-    width: auto;
-    border-color: black;
+    border-color: brown;
+}
+
+.creamy-spinach-pizza {
+    border-color: yellow;
+}
+
+.lechon {
+    border-color: brown;
 }
